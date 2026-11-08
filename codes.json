@@ -1,0 +1,19 @@
+{
+  "version": "1.1.0",
+  "checked": "2026-11-08",
+  "game": "[⚡] Steal a Superpower!",
+  "universeId": 10770228857,
+  "placeId": 74183246285569,
+  "note": "Codes are one-time per account and may expire. Add new codes at the top. The hub also accepts a custom comma-separated list in the Economy tab.",
+  "codes": [
+    { "code": "10KCCU", "reward": "Mystery Pack (can roll any card in your World)" },
+    { "code": "50KLIKES", "reward": "All tier potions at 3x" },
+    { "code": "30KLIKES", "reward": "Luck or Power potions" },
+    { "code": "SOZFORUPDATES", "reward": "Luck or Power potions" },
+    { "code": "20KLIKES", "reward": "Luck or Power potions" },
+    { "code": "10KLIKES", "reward": "Luck or Power potions" },
+    { "code": "1KCCU", "reward": "Luck or Power potions" },
+    { "code": "POTIONS", "reward": "Luck or Power potions" },
+    { "code": "DISCORD", "reward": "Legend Pack" }
+  ]
+}
